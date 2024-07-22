@@ -1,0 +1,14 @@
+{
+  "name": "qa-engineering-syaugi",
+  "version": "1.0.0",
+  "description": "This repository showcases my expertise and projects in Quality Assurance (QA) Engineering. It includes detailed test plans, test cases, automated test scripts, performance testing scripts, security testing setups, and comprehensive test reports for various projects.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.2",
+    "@types/node": "^20.14.11"
+  }
+}
